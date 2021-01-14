@@ -30,7 +30,7 @@ export const Details = observer(({route, navigation}) => {
                             style={{width: 20, height: 20}}
                             source={require('../assets/icons/google.png')}
                         />
-                        <Text style={{fontSize: 18, marginLeft: 10, color: mainColor}}>namozostonayev@gmail.com</Text>
+                        <Text style={{fontSize: 18, marginLeft: 10, color: mainColor}}>nostonayev@gmail.com</Text>
                     </View>
                     <View style={{flexDirection: 'row', marginVertical: 5, marginLeft: -5, alignItems: 'center'}}>
                         <Image
